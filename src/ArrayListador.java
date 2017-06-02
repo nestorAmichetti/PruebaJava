@@ -1,7 +1,7 @@
 import java.util.*;
 
 public class ArrayListador  {
-//hola que tal
+//hola que
 	public static void main(String[] args) {
 	  int n;
 	  Scanner teclado=new Scanner(System.in);
